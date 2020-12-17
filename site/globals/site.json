@@ -1,0 +1,30 @@
+{
+    "name": "User-centred Deisgn Ltd",
+    "url": "https://ucd.ltd",
+    "author": {
+        "name": "Liam McMurray",
+        "email": "liam@ucd.ltd",
+        "handle": "@liammcmuray",
+        "avatar": "/images/blog/author.jpg"
+    },
+    "images": {
+        "logo": "/images/logo/logo.svg",
+        "favicon": "/images/favicon.ico",
+        "twitter": "/images/meta/twitter.jpg",
+        "og": "/images/meta/og.jpg"
+    },
+    "social_links": {
+        "twitter": "https://twitter.com/liammcmurray",
+        "linkedin": "https://www.linkedin.com/in/liammcmurray"
+    },
+    "address": {
+        "street": "1 Down Lane",
+        "city": "Bathampton",
+        "postcode": "BA2 6UE",
+        "country": "GB"
+    },
+    "contact": {
+        "mobile": "(+44)7454 807838",
+        "email": "hello@ucd.ltd"
+    }
+}
